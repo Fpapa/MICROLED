@@ -1,0 +1,28 @@
+Banco para AD-02:  BD_AD_02
+User: BD_AD_02
+Senha: bd_ad_02@02
+Tabelas da empresa: ECOPORTO
+
+Número do evento que convencionamos:
+Armazenamento de Lote = 1
+Troca de Navio = 2
+Avarias/Extravios de Lote = 3
+Acesso de Pessoas = 4
+Acesso de Veículos = 5
+Embarque/Desembarque de Navio = 6
+Credenciamento de Pessoas = 7
+Credenciamento de Veículos = 8
+Geração de Lote = 9
+Pesagem de Veículos/Cargas = 10
+Posição do Contêiner = 11
+
+
+Documentacao Json Eventos
+https://docs.portalunico.siscomex.gov.br/swagger/rcnt.html
+
+
+Monitoramento via site :
+https://www.microled.com.br/LOGADE02
+CPF: 03527837027
+Senha: 123@abc
+ 

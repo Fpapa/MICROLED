@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ORACLE</Value>
+    </Setting>
+    <Setting Name="ServidorOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PATIODEV</Value>
+    </Setting>
+    <Setting Name="SchemaOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OPERADOR</Value>
+    </Setting>
+    <Setting Name="UsuarioOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OPERADOR</Value>
+    </Setting>
+    <Setting Name="SenhaOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TECONDI</Value>
+    </Setting>
+    <Setting Name="BaseDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MSSQL</Value>
+    </Setting>
+    <Setting Name="ServidorDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">186.202.128.118</Value>
+    </Setting>
+    <Setting Name="SchemaDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bd_ad_02</Value>
+    </Setting>
+    <Setting Name="UsuarioDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BD_AD_02</Value>
+    </Setting>
+    <Setting Name="SenhaDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bd_ad_02@02</Value>
+    </Setting>
+    <Setting Name="TabelaDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ECOPORTO</Value>
+    </Setting>
+    <Setting Name="IntervaloMin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Eve_01" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_02" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_03" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_04" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_05" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_06" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_07" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_08" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_09" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_10" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Eve_11" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ProvedorOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OraOLEDB.ORACLE</Value>
+    </Setting>
+    <Setting Name="ProvedorDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
