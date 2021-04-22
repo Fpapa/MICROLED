@@ -22,6 +22,9 @@ namespace ADE02Service
             //};
             //ServiceBase.Run(ServicesToRun);
 
+
+            //teste
+
             Worker worker = new Worker();
             CancellationToken cancellationToken;
 
